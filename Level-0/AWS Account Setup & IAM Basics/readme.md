@@ -1,7 +1,6 @@
 # Project 1: AWS Account Setup & IAM Basics
 <div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/d334606b-66d0-4fe3-9584-6533908cb289"></div>
 
-
 ## **Description**
 Learn how to create an AWS account, set up billing alerts, and configure IAM users and roles. This guide will walk you through creating an IAM user with billing access.
 
@@ -37,6 +36,7 @@ Learn how to create an AWS account, set up billing alerts, and configure IAM use
 ---
 ### **Step 3: Configure IAM Users and Roles**
 <div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/a84357f0-86e5-417d-9cef-a9b79bd5c64b"></div>
+
 1. Open the **IAM Console** from the AWS Management Console.
 2. In the left-hand menu, click **Users** and then **Add User**.
    - Enter a username (e.g., `billing-admin`).
