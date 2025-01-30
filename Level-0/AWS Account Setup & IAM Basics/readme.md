@@ -1,5 +1,5 @@
 # Project 1: AWS Account Setup & IAM Basics
-<div align="center">![AWS](https://github.com/user-attachments/assets/d334606b-66d0-4fe3-9584-6533908cb289)</div>
+<div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/d334606b-66d0-4fe3-9584-6533908cb289"></div>
 
 
 ## **Description**
@@ -24,7 +24,7 @@ Learn how to create an AWS account, set up billing alerts, and configure IAM use
 ---
 
 ### **Step 2: Set Up Billing Alerts**
-<div align="center">![Billing and budget](https://github.com/user-attachments/assets/b0023fcf-4603-4b67-b77e-82e9134b0430)</div>
+<div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/b0023fcf-4603-4b67-b77e-82e9134b0430"></div>
 
 1. Log in to the AWS Management Console.
 2. Navigate to **Billing and Cost Management** from the top-right dropdown menu under your account name.
@@ -36,7 +36,7 @@ Learn how to create an AWS account, set up billing alerts, and configure IAM use
 
 ---
 ### **Step 3: Configure IAM Users and Roles**
-<div align="center">![IAM-Identities-and-permission](https://github.com/user-attachments/assets/a84357f0-86e5-417d-9cef-a9b79bd5c64b)</div>
+<div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/a84357f0-86e5-417d-9cef-a9b79bd5c64b"></div>
 1. Open the **IAM Console** from the AWS Management Console.
 2. In the left-hand menu, click **Users** and then **Add User**.
    - Enter a username (e.g., `billing-admin`).
