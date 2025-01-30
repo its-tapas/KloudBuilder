@@ -34,6 +34,7 @@ Learn how to create an AWS account, set up billing alerts, and configure IAM use
    
 ---
 <div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/b0023fcf-4603-4b67-b77e-82e9134b0430"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/a84357f0-86e5-417d-9cef-a9b79bd5c64b"></div>
+
 ---
 
 ### **Step 3: Configure IAM Users and Roles**
