@@ -1,6 +1,7 @@
 # Project 1: AWS Account Setup & IAM Basics
-<div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/d334606b-66d0-4fe3-9584-6533908cb289"></div>
 
+<div align="center"> <img width="306" alt="newlogo" src="
+https://github.com/user-attachments/assets/2df67e3e-6079-4322-ae4d-15243e104996"></div>
 ## **Description**
 Learn how to create an AWS account, set up billing alerts, and configure IAM users and roles. This guide will walk you through creating an IAM user with billing access.
 
