@@ -1,4 +1,4 @@
-# Project 1: AWS Account Setup & IAM Basics
+# AWS Account Setup & IAM Basics
 
 <div align="center"> <img width="70%" alt="newlogo" src="https://github.com/user-attachments/assets/2df67e3e-6079-4322-ae4d-15243e104996"></div>
 
