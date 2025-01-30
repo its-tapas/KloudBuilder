@@ -1,10 +1,10 @@
-# KloudOps: Community-Driven AWS Learning
+# KloudBuilder: Community-Driven AWS Learning
 
-Welcome to KloudOps, an open-source initiative aimed at creating a comprehensive, structured learning path for Amazon Web Services (AWS).
+Welcome to KloudBuilder, an open-source initiative aimed at creating a comprehensive, structured learning path for Amazon Web Services (AWS).
 
 ## Mission
 
-KloudOps is dedicated to democratizing AWS learning by providing free, community-driven content structured in a clear, progressive manner. We believe in the power of collective knowledge and aim to create a platform where learners and experts can come together to share, learn, and grow.
+KloudBuilder is dedicated to democratizing AWS learning by providing free, community-driven content structured in a clear, progressive manner. We believe in the power of collective knowledge and aim to create a platform where learners and experts can come together to share, learn, and grow.
 
 ## How It Works
 
@@ -42,7 +42,7 @@ Please ensure your contributions adhere to the following guidelines:
 We're planning to develop a dedicated platform to make contributing and learning even easier. Stay tuned for updates!
 
 ## Join the Community
-KloudOps is more than just a learning platform; it’s a community of cloud enthusiasts helping each other grow. Whether you’re here to learn or contribute, we’re excited to have you on board. 
+KloudBuilder is more than just a learning platform; it’s a community of cloud enthusiasts helping each other grow. Whether you’re here to learn or contribute, we’re excited to have you on board. 
 
 
 Let’s build the future of cloud learning together!
