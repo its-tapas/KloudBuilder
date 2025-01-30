@@ -23,7 +23,6 @@ Learn how to create an AWS account, set up billing alerts, and configure IAM use
 ---
 
 ### **Step 2: Set Up Billing Alerts**
-<div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/b0023fcf-4603-4b67-b77e-82e9134b0430"></div>
 
 1. Log in to the AWS Management Console.
 2. Navigate to **Billing and Cost Management** from the top-right dropdown menu under your account name.
@@ -32,10 +31,12 @@ Learn how to create an AWS account, set up billing alerts, and configure IAM use
    - Select **Cost Budget** and click **Set Your Budget**.
    - Set a budget limit (e.g., $10) and configure notifications for when your spending exceeds the threshold.
 5. Save your budget configuration.
-
+   
 ---
+<div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/b0023fcf-4603-4b67-b77e-82e9134b0430"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/a84357f0-86e5-417d-9cef-a9b79bd5c64b"></div>
+---
+
 ### **Step 3: Configure IAM Users and Roles**
-<div align="center"> <img width="306" alt="newlogo" src="https://github.com/user-attachments/assets/a84357f0-86e5-417d-9cef-a9b79bd5c64b"></div>
 
 1. Open the **IAM Console** from the AWS Management Console.
 2. In the left-hand menu, click **Users** and then **Add User**.
