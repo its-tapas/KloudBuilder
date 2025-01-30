@@ -29,7 +29,7 @@ Set up basic monitoring for your AWS resources using CloudWatch metrics and alar
 
 ---
 
- <div align="center"><img width="70%" height=="5" src="https://github.com/user-attachments/assets/64a57855-0b97-412c-ba5f-003baf3e9257"></div>
+ <div align="center"><img width="400" height="200" src="https://github.com/user-attachments/assets/64a57855-0b97-412c-ba5f-003baf3e9257"></div>
 
 ---
 
