@@ -1,5 +1,5 @@
 # Project 3: RDS Database Creation: Deploying a MySQL Database
-
+<div align="center"><img width="70%" src="https://github.com/user-attachments/assets/d7596a89-8bea-4a71-8b0f-3b125b750034"></div>
 
 Create a managed MySQL database using Amazon RDS and connect it to a simple application.
 
