@@ -1,4 +1,9 @@
 # Serverless URL Shortener
+![SERVERLESS URL SHORTNER](https://github.com/user-attachments/assets/f8c9a468-2f36-4b7f-9b09-231aad6280e7)
+
+NOTE: 
+1. You can Find the **Amazon Blog** for Build a Serverless, Private URL Shortener - [Here](https://aws.amazon.com/blogs/compute/build-a-serverless-private-url-shortener)
+2. If You Like to **Build a serverless URL shortener app without AWS Lambda** Go to - [Amazon Blog Link](https://aws.amazon.com/blogs/compute/building-a-serverless-url-shortener-app-without-lambda-part-1)
 
 This project demonstrates how to build a serverless URL shortener using AWS Lambda, API Gateway, and DynamoDB. It is designed to be beginner-friendly and includes step-by-step instructions for Windows users.
 
@@ -93,15 +98,16 @@ Before starting, ensure you have the following:
 #### Using Command Prompt or PowerShell
 1. **Create a Short URL**:
    ```bash
-   curl -X POST https://<api-id>.execute-api.<region>.amazonaws.com/prod/shorten `
-   -H "Content-Type: application/json" `
-   -d '{"long_url": "https://www.example.com"}'
+      Invoke-RestMethod -Uri "https://<api-id>.execute-api.<region>.amazonaws.com/prod/shorten" `
+    -Method Post `
+    -ContentType "application/json" `
+    -Body '{"long_url": "https://www.example.com"}'
 
 (Note: Use backticks ` for line continuation in PowerShell.)
 
 2. **Redirect to the Original URL:**
    ```bash
-   curl -X GET https://<api-id>.execute-api.<region>.amazonaws.com/prod/redirect?short_code=<short_code>
+   Invoke-RestMethod -Uri "https://<api-id>.execute-api.<region>.amazonaws.com/prod/redirect?short_code=<short_code>"
 ---
 
 ### Step 6: Clean Up
@@ -118,4 +124,4 @@ Feel free to contribute to this project by opening issues or submitting pull req
 - Fix bugs or optimize the code.
 
 ## Support
-If you have any questions or need help, feel free to open an issue in this repository.
+If you have any questions or need help, feel free to open an issue in this repository. or If you found some errors you can give the updates.
